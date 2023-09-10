@@ -1,0 +1,2 @@
+D:\Program Files (x86)\Users\Mike Rowe Soft\Documents\CSE 4050\CSE4400-GameDesignProject\NoMand_Knight\Intermediate\Build\Win64\UE4Editor\Development\NoMand_Knight\Definitions.NoMand_Knight.h
+D:\Program Files (x86)\Users\Mike Rowe Soft\Documents\CSE 4050\CSE4400-GameDesignProject\NoMand_Knight\Source\NoMand_Knight\NoMand_Knight.h

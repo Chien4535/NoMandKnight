@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NoMand_Knight.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EC207F6B-ECA9-4CF6-9098-983A28D73E61}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NoMand_Knight.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NoMand_KnightEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{145B504C-D518-4EF3-B486-7DAD2B52E65D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NoMand_Knight">
+      <UniqueIdentifier>{3CB163D8-3EC4-443F-B6E8-A3ACE1D927C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NoMand_Knight\NoMand_Knight.Build.cs">
+      <Filter>Source\NoMand_Knight</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NoMand_Knight\NoMand_Knight.cpp">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoMand_Knight\NoMand_Knight.h">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoMand_Knight\NoMand_KnightCharacter.cpp">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoMand_Knight\NoMand_KnightCharacter.h">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoMand_Knight\NoMand_KnightGameMode.cpp">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoMand_Knight\NoMand_KnightGameMode.h">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

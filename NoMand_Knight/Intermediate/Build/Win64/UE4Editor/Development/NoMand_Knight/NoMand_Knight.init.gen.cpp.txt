@@ -1,0 +1,3 @@
+D:\Program Files (x86)\Users\Mike Rowe Soft\Documents\CSE 4050\CSE4400-GameDesignProject\NoMand_Knight\Intermediate\Build\Win64\UE4Editor\Development\NoMand_Knight\Definitions.NoMand_Knight.h
+B:\Program Files\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+B:\Program Files\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
