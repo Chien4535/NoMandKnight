@@ -31,6 +31,17 @@ class ANoMand_KnightCharacter : public APaperCharacter
 
 	UTextRenderComponent* TextComponent;
 	virtual void Tick(float DeltaSeconds) override;
+
+	void StandardAttack();
+	void HeavyAttack();
+	void KickAttack();
+	void SpecialAttack();
+
+	void CancelStandard();
+	void CancelHeavy();
+	void CancelKick();
+	void CancelSpecial();
+
 protected:
 	// The animation to play while running around
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Animations)

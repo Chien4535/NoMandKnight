@@ -34,7 +34,6 @@ ANoMand_KnightCharacter::ANoMand_KnightCharacter()
 	CameraBoom->SetUsingAbsoluteRotation(true);
 	CameraBoom->bDoCollisionTest = false;
 	CameraBoom->SetRelativeRotation(FRotator(0.0f, -90.0f, 0.0f));
-	
 
 	// Create an orthographic camera (no perspective) and attach it to the boom
 	SideViewCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("SideViewCamera"));
@@ -65,11 +64,11 @@ ANoMand_KnightCharacter::ANoMand_KnightCharacter()
 	// behavior on the edge of a ledge versus inclines by setting this to true or false
 	GetCharacterMovement()->bUseFlatBaseForFloorChecks = true;
 
-    // 	TextComponent = CreateDefaultSubobject<UTextRenderComponent>(TEXT("IncarGear"));
-    // 	TextComponent->SetRelativeScale3D(FVector(3.0f, 3.0f, 3.0f));
-    // 	TextComponent->SetRelativeLocation(FVector(35.0f, 5.0f, 20.0f));
-    // 	TextComponent->SetRelativeRotation(FRotator(0.0f, 90.0f, 0.0f));
-    // 	TextComponent->SetupAttachment(RootComponent);
+	// 	TextComponent = CreateDefaultSubobject<UTextRenderComponent>(TEXT("IncarGear"));
+	// 	TextComponent->SetRelativeScale3D(FVector(3.0f, 3.0f, 3.0f));
+	// 	TextComponent->SetRelativeLocation(FVector(35.0f, 5.0f, 20.0f));
+	// 	TextComponent->SetRelativeRotation(FRotator(0.0f, 90.0f, 0.0f));
+	// 	TextComponent->SetupAttachment(RootComponent);
 
 	// Enable replication on the Sprite component so animations show up when networked
 	GetSprite()->SetIsReplicated(true);
@@ -85,8 +84,8 @@ void ANoMand_KnightCharacter::UpdateAnimation()
 	const float PlayerSpeedSqr = PlayerVelocity.SizeSquared();
 
 	// Are we moving or standing still?
-	UPaperFlipbook* DesiredAnimation = (PlayerSpeedSqr > 0.0f) ? RunningAnimation : IdleAnimation;
-	if( GetSprite()->GetFlipbook() != DesiredAnimation 	)
+	UPaperFlipbook *DesiredAnimation = (PlayerSpeedSqr > 0.0f) ? RunningAnimation : IdleAnimation;
+	if (GetSprite()->GetFlipbook() != DesiredAnimation)
 	{
 		GetSprite()->SetFlipbook(DesiredAnimation);
 	}
@@ -95,20 +94,29 @@ void ANoMand_KnightCharacter::UpdateAnimation()
 void ANoMand_KnightCharacter::Tick(float DeltaSeconds)
 {
 	Super::Tick(DeltaSeconds);
-	
-	UpdateCharacter();	
-}
 
+	UpdateCharacter();
+}
 
 //////////////////////////////////////////////////////////////////////////
 // Input
 
-void ANoMand_KnightCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
+void ANoMand_KnightCharacter::SetupPlayerInputComponent(class UInputComponent *PlayerInputComponent)
 {
 	// Note: the 'Jump' action and the 'MoveRight' axis are bound to actual keys/buttons/sticks in DefaultInput.ini (editable from Project Settings..Input)
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 	PlayerInputComponent->BindAxis("MoveRight", this, &ANoMand_KnightCharacter::MoveRight);
+
+	// Fighting Game Inputs
+	PlayerInputComponent->BindAction("StandardAttack", IE_Pressed, this, &ANoMand_KnightCharacter::StandardAttack);
+	// PlayerInputComponent->BindAction("CancelStandard", IE_Pressed, this, &ANoMand_KnightCharacter::CancelStandard;
+	PlayerInputComponent->BindAction("HeavyAttack", IE_Pressed, this, &ANoMand_KnightCharacter::HeavyAttack);
+	// PlayerInputComponent->BindAction("CancelHeavy", IE_Pressed, this, &ANoMand_KnightCharacter::CancelHeavy;
+	PlayerInputComponent->BindAction("KickAttack", IE_Pressed, this, &ANoMand_KnightCharacter::KickAttack);
+	// PlayerInputComponent->BindAction("CancelKick", IE_Pressed, this, &ANoMand_KnightCharacter::CancelKick;
+	PlayerInputComponent->BindAction("SpecialAttack", IE_Pressed, this, &ANoMand_KnightCharacter::SpecialAttack);
+	// PlayerInputComponent->BindAction("CancelSpecial", IE_Pressed, this, &ANoMand_KnightCharacter::CancelSpecial;
 
 	PlayerInputComponent->BindTouch(IE_Pressed, this, &ANoMand_KnightCharacter::TouchStarted);
 	PlayerInputComponent->BindTouch(IE_Released, this, &ANoMand_KnightCharacter::TouchStopped);
@@ -140,7 +148,7 @@ void ANoMand_KnightCharacter::UpdateCharacter()
 	UpdateAnimation();
 
 	// Now setup the rotation of the controller based on the direction we are travelling
-	const FVector PlayerVelocity = GetVelocity();	
+	const FVector PlayerVelocity = GetVelocity();
 	float TravelDirection = PlayerVelocity.X;
 	// Set the rotation so that the character faces his direction of travel.
 	if (Controller != nullptr)
@@ -154,4 +162,24 @@ void ANoMand_KnightCharacter::UpdateCharacter()
 			Controller->SetControlRotation(FRotator(0.0f, 0.0f, 0.0f));
 		}
 	}
+}
+
+void ANoMand_KnightCharacter::StandardAttack()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Standard Attack"));
+}
+
+void ANoMand_KnightCharacter::HeavyAttack()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Heavy Attack"));
+}
+
+void ANoMand_KnightCharacter::KickAttack()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Kick Attack"));
+}
+
+void ANoMand_KnightCharacter::SpecialAttack()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Special Attack"));
 }

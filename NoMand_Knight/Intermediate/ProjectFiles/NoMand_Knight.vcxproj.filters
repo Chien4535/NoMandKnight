@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\NoMand_Knight.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EC207F6B-ECA9-4CF6-9098-983A28D73E61}</UniqueIdentifier>
+      <UniqueIdentifier>{92E1489B-61BC-4693-ACB2-EBDA46AA4C86}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NoMand_Knight.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{145B504C-D518-4EF3-B486-7DAD2B52E65D}</UniqueIdentifier>
+      <UniqueIdentifier>{13E076E8-6216-4141-92D5-2A31B8B94264}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\NoMand_Knight">
-      <UniqueIdentifier>{3CB163D8-3EC4-443F-B6E8-A3ACE1D927C3}</UniqueIdentifier>
+      <UniqueIdentifier>{3454C04C-E092-4827-B1C4-509B350BA056}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NoMand_Knight\NoMand.cpp">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoMand_Knight\NoMand.h">
+      <Filter>Source\NoMand_Knight</Filter>
+    </ClInclude>
     <None Include="..\..\Source\NoMand_Knight\NoMand_Knight.Build.cs">
       <Filter>Source\NoMand_Knight</Filter>
     </None>
