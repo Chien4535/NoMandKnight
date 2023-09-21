@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "PaperCharacter.h"
+#include "GameFramework/Actor.h"
+#include "Net/UnrealNetwork.h"
 #include "NoMand_KnightCharacter.generated.h"
 
 class UTextRenderComponent;
@@ -20,6 +22,10 @@ UCLASS(config=Game)
 class ANoMand_KnightCharacter : public APaperCharacter
 {
 	GENERATED_BODY()
+	
+	// Health property for character.
+	UPROPERTY(VisibleAnywhere, Category = "Character")
+	float Health;
 
 	/** Side view camera */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera, meta=(AllowPrivateAccess="true"))
@@ -37,10 +43,12 @@ class ANoMand_KnightCharacter : public APaperCharacter
 	void KickAttack();
 	void SpecialAttack();
 
-	void CancelStandard();
-	void CancelHeavy();
-	void CancelKick();
-	void CancelSpecial();
+	void TakeDamage(float DamageAmount);
+
+	// void CancelStandard();
+	// void CancelHeavy();
+	// void CancelKick();
+	// void CancelSpecial();
 
 protected:
 	// The animation to play while running around

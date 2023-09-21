@@ -22,6 +22,8 @@ ANoMand_KnightCharacter::ANoMand_KnightCharacter()
 	bUseControllerRotationYaw = true;
 	bUseControllerRotationRoll = false;
 
+	Health = 100.f;
+
 	// Set the size of our collision capsule.
 	GetCapsuleComponent()->SetCapsuleHalfHeight(96.0f);
 	GetCapsuleComponent()->SetCapsuleRadius(40.0f);
@@ -166,20 +168,41 @@ void ANoMand_KnightCharacter::UpdateCharacter()
 
 void ANoMand_KnightCharacter::StandardAttack()
 {
+	float DamageAmount = 10.0f;
+	TakeDamage(DamageAmount);
 	UE_LOG(LogTemp, Warning, TEXT("Standard Attack"));
 }
 
 void ANoMand_KnightCharacter::HeavyAttack()
 {
+	float DamageAmount = 20.0f;
+	TakeDamage(DamageAmount);
 	UE_LOG(LogTemp, Warning, TEXT("Heavy Attack"));
 }
 
 void ANoMand_KnightCharacter::KickAttack()
 {
+	float DamageAmount = 5.0f;
+	TakeDamage(DamageAmount);
 	UE_LOG(LogTemp, Warning, TEXT("Kick Attack"));
 }
 
 void ANoMand_KnightCharacter::SpecialAttack()
 {
+	float DamageAmount = 35.0f;
+	TakeDamage(DamageAmount);
+
+	// Handle animations here later.
 	UE_LOG(LogTemp, Warning, TEXT("Special Attack"));
+}
+
+void ANoMand_KnightCharacter::TakeDamage(float DamageAmount) {
+	if (HasAuthority()) {
+		Health -= DamageAmount;
+		if (Health <= 0.0f) {
+			Health = 0;
+			// Do some game over shit here or something uhhhh...
+		}
+		//Healthbar update function will be needed from UI team.
+	}
 }

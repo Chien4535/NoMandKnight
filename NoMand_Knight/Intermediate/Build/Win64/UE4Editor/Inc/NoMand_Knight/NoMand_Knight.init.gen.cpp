@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeNoMand_Knight_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xDEC16BCF,
+				0xC209BC4D,
 				0x66930106,
 				METADATA_PARAMS(nullptr, 0)
 			};

@@ -35,6 +35,10 @@ void EmptyLinkFunctionForGeneratedCodeNoMand_KnightCharacter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Health_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Health;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_SideViewCameraComponent_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_SideViewCameraComponent;
@@ -67,6 +71,15 @@ void EmptyLinkFunctionForGeneratedCodeNoMand_KnightCharacter() {}
 		{ "ToolTip", "This class is the default character for NoMand_Knight, and it is responsible for all\nphysical interaction between the player and the world.\n\nThe capsule component (inherited from ACharacter) handles collision with the world\nThe CharacterMovementComponent (inherited from ACharacter) handles movement of the collision capsule\nThe Sprite component (inherited from APaperCharacter) handles the visuals" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_Health_MetaData[] = {
+		{ "Category", "Character" },
+		{ "Comment", "// Health property for character.\n" },
+		{ "ModuleRelativePath", "NoMand_KnightCharacter.h" },
+		{ "ToolTip", "Health property for character." },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_Health = { "Health", nullptr, (EPropertyFlags)0x0040000000020001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANoMand_KnightCharacter, Health), METADATA_PARAMS(Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_Health_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_Health_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_SideViewCameraComponent_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
@@ -108,6 +121,7 @@ void EmptyLinkFunctionForGeneratedCodeNoMand_KnightCharacter() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_IdleAnimation = { "IdleAnimation", nullptr, (EPropertyFlags)0x0020080000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANoMand_KnightCharacter, IdleAnimation), Z_Construct_UClass_UPaperFlipbook_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_IdleAnimation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_IdleAnimation_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ANoMand_KnightCharacter_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_Health,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_SideViewCameraComponent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_CameraBoom,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANoMand_KnightCharacter_Statics::NewProp_RunningAnimation,
@@ -140,7 +154,7 @@ void EmptyLinkFunctionForGeneratedCodeNoMand_KnightCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANoMand_KnightCharacter, 2082439680);
+	IMPLEMENT_CLASS(ANoMand_KnightCharacter, 763538793);
 	template<> NOMAND_KNIGHT_API UClass* StaticClass<ANoMand_KnightCharacter>()
 	{
 		return ANoMand_KnightCharacter::StaticClass();

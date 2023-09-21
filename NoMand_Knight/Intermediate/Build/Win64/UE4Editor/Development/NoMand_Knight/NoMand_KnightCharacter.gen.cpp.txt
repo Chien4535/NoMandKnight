@@ -10,4 +10,5 @@ B:\Program Files\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Game
 B:\Program Files\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 B:\Program Files\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 B:\Program Files\Unreal Engine\UE_4.27\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
+B:\Program Files\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
 D:\Program Files (x86)\Users\Mike Rowe Soft\Documents\CSE 4050\CSE4400-GameDesignProject\NoMand_Knight\Intermediate\Build\Win64\UE4Editor\Inc\NoMand_Knight\NoMand_KnightCharacter.generated.h
