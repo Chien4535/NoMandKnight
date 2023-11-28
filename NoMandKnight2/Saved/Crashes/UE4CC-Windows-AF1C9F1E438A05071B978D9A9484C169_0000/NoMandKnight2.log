@@ -1,0 +1,1654 @@
+﻿Log file open, 11/19/23 20:44:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NoMandKnight2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282543
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PaperZD
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin EnhancedInput
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 5900HS with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.11.20-04.45.00:667][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.11.20-04.45.00:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:668][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:673][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.11.20-04.45.00:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.11.20-04.45.00:674][  0]LogInit: Selected Device Profile: [Windows]
+[2023.11.20-04.45.00:674][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.11.20-04.45.00:674][  0]LogHAL: Display: Platform has ~ 16 GB [16542732288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.20-04.45.00:674][  0]LogInit: Going up to parent DeviceProfile []
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.11.20-04.45.00:674][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Scalability.ini]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.11.20-04.45.00:675][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.20-04.45.00:676][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.11.20-04.45.00:676][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.11.20-04.45.00:676][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.11.20-04.45.00:676][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Engine.ini]
+[2023.11.20-04.45.00:676][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Config/Windows/Editor.ini]
+[2023.11.20-04.45.00:676][  0]LogInit: Computer: LAPTOP-IIGL3ECS
+[2023.11.20-04.45.00:676][  0]LogInit: User: AlexPerez
+[2023.11.20-04.45.00:676][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.11.20-04.45.00:676][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.20-04.45.00:676][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2023.11.20-04.45.00:676][  0]LogMemory: Platform Memory Stats for Windows
+[2023.11.20-04.45.00:676][  0]LogMemory: Process Physical Memory: 151.99 MB used, 155.57 MB peak
+[2023.11.20-04.45.00:676][  0]LogMemory: Process Virtual Memory: 148.60 MB used, 148.60 MB peak
+[2023.11.20-04.45.00:676][  0]LogMemory: Physical Memory: 8715.38 MB used,  7061.00 MB free, 15776.38 MB total
+[2023.11.20-04.45.00:676][  0]LogMemory: Virtual Memory: 134202760.00 MB used,  14968.01 MB free, 134217728.00 MB total
+[2023.11.20-04.45.00:681][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.20-04.45.00:722][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.11.20-04.45.00:723][  0]LogInit: Using OS detected language (en-US).
+[2023.11.20-04.45.00:723][  0]LogInit: Using OS detected locale (en-US).
+[2023.11.20-04.45.00:727][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.11.20-04.45.00:927][  0]LogInit: Setting process to per monitor DPI aware
+[2023.11.20-04.45.00:938][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.20-04.45.00:950][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.20-04.45.00:950][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.20-04.45.01:105][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.11.20-04.45.06:554][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.11.20-04.45.06:554][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.11.20-04.45.06:554][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.11.20-04.45.06:554][  0]LogD3D11RHI: D3D11 adapters:
+[2023.11.20-04.45.06:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Laptop GPU' (Feature Level 11_0)
+[2023.11.20-04.45.06:708][  0]LogD3D11RHI:       8032/0/7888 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.11.20-04.45.06:745][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.11.20-04.45.06:745][  0]LogD3D11RHI:       495/0/7888 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:       0/0/7888 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Laptop GPU
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     DeviceId    : 249c
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     SubSysId    : 16221043
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     DedicatedVideoMemory : 8422162432 bytes
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.11.20-04.45.06:747][  0]LogD3D11RHI:     SharedSystemMemory : 8271366144 bytes
+[2023.11.20-04.45.06:748][  0]LogD3D11RHI:     AdapterLuid : 0 69348
+[2023.11.20-04.45.06:754][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.11.20-04.45.06:754][  0]LogD3D11RHI:     GPU DeviceId: 0x249c (for the marketing name, search the web for "GPU Device Id")
+[2023.11.20-04.45.06:754][  0]LogWindows: EnumDisplayDevices:
+[2023.11.20-04.45.06:754][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.11.20-04.45.06:755][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.11.20-04.45.06:755][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.11.20-04.45.06:755][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2023.11.20-04.45.06:755][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2023.11.20-04.45.06:755][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2023.11.20-04.45.06:755][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2023.11.20-04.45.06:755][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.11.20-04.45.06:755][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Laptop GPU
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:   Driver Version: 546.17 (internal:31.0.15.4617, unified:546.17)
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:      Driver Date: 11-9-2023
+[2023.11.20-04.45.06:756][  0]LogRHI: Texture pool is 5622 MB (70% of 8032 MB)
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Laptop GPU
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     DeviceId    : 249c
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     SubSysId    : 16221043
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     DedicatedVideoMemory : 8422162432 bytes
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     SharedSystemMemory : 8271366144 bytes
+[2023.11.20-04.45.06:756][  0]LogD3D11RHI:     AdapterLuid : 0 69348
+[2023.11.20-04.45.06:843][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.11.20-04.45.06:843][  0]LogD3D11RHI: Async texture creation enabled
+[2023.11.20-04.45.06:843][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.11.20-04.45.06:857][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.11.20-04.45.06:871][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.11.20-04.45.07:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.11.20-04.45.07:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.11.20-04.45.07:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.11.20-04.45.07:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.11.20-04.45.07:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.11.20-04.45.07:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.11.20-04.45.07:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.11.20-04.45.07:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.11.20-04.45.07:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.11.20-04.45.07:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.11.20-04.45.07:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.11.20-04.45.07:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.11.20-04.45.07:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.11.20-04.45.07:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.11.20-04.45.07:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.11.20-04.45.07:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.11.20-04.45.07:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.11.20-04.45.07:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.11.20-04.45.07:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.11.20-04.45.07:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.11.20-04.45.07:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.11.20-04.45.07:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.11.20-04.45.07:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.11.20-04.45.07:232][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.11.20-04.45.07:237][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.20-04.45.07:261][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.11.20-04.45.07:283][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.11.20-04.45.07:283][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Intermediate/Shaders/WorkingDirectory/268/).
+[2023.11.20-04.45.07:284][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex Perez/AppData/Local/Temp/UnrealShaderWorkingDir/DF790B2C4E08031B716FA8961B021D88/'.
+[2023.11.20-04.45.07:284][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.11.20-04.45.07:284][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.11.20-04.45.07:284][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.11.20-04.45.07:826][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.11.20-04.45.07:871][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/Alex Perez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.11.20-04.45.07:871][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alex Perez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.11.20-04.45.07:872][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.11.20-04.45.07:872][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.11.20-04.45.07:872][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.20-04.45.07:872][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.11.20-04.45.07:886][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.11.20-04.45.07:886][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.20-04.45.07:886][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.11.20-04.45.07:893][  0]LogDerivedDataCache: Speed tests for C:/Users/Alex Perez/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.11.20-04.45.07:893][  0]LogDerivedDataCache: Display: Performance to C:/Users/Alex Perez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1166.63MBs, RandomWriteSpeed=168.54MBs. Assigned SpeedClass 'Local'
+[2023.11.20-04.45.07:894][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex Perez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.11.20-04.45.07:894][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.11.20-04.45.07:894][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.11.20-04.45.07:931][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.20-04.45.07:931][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.20-04.45.07:953][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2023.11.20-04.45.08:144][  0]LogInit: Selected Device Profile: [Windows]
+[2023.11.20-04.45.08:144][  0]LogInit: Active device profile: [000001AE6C90B700][000001AE5FCED300 49] Windows
+[2023.11.20-04.45.08:144][  0]LogInit: Profiles: [000001AE6C90B700][000001AE5FCED300 49] Windows, [000001AE6C8CCB00][000001AE5FCF55C0 49] WindowsNoEditor, [000001AE6C908B00][000001AE5FCF9880 49] WindowsServer, [000001AE6C8CF000][000001AE5FCFDB40 49] WindowsClient, [000001AE6C90AF00][000001AE5FD00280 49] IOS, [000001AE6C8CD300][000001AE5FD04540 49] iPadAir, [000001AE6C909200][000001AE5FD08800 49] iPadAir2, [000001AE6DC30100][000001AE6C0D0D00 49] IPadPro, [000001AE6DC23F00][000001AE5FD0CD40 49] iPadAir3, [000001AE6C90AB00][000001AE5FCF0FC0 49] iPadAir4, [000001AE6DC21000][000001AE6C0C9280 49] iPadMini2, [000001AE6C909500][000001AE6A6D3540 49] iPadMini3, [000001AE6DC22B00][000001AE6A6F7800 49] iPadMini4, [000001AE6C90A400][000001AE6A6FBAC0 49] iPadMini5, [000001AE6C8CEB00][000001AE6C0F0480 49] iPhone6, [000001AE6C8CEA00][000001AE6C0E04C0 49] iPodTouch6, [000001AE6DC21100][000001AE6C0F8A00 49] iPhone7, [000001AE6DC21200][000001AE6C0E8A40 49] iPodTouch7, [000001AE6C8CCE00][000001AE6C0ECD00 49] iPhone5S, [000001AE6DC22D00][000001AE6C0CCF80 49] iPhone6Plus, [000001AE6C8CDF00][000001AE6C0F5240 49] iPhone6S, [000001AE6DC23500][000001AE6C0FD500 49] iPhone6SPlus, [000001AE6C8CF300][000001AE6C1017C0 49] iPhone7Plus, [000001AE6DC22400][000001AE6C105A80 49] iPhoneSE, [000001AE6C8CD800][000001AE6C10C1C0 49] iPhone8, [000001AE6DC22900][000001AE6D82E480 49] iPhone8Plus, [000001AE6C8CEE00][000001AE6D832740 49] iPhoneX, [000001AE6DC20400][000001AE6A43CA00 49] iPhoneXS, [000001AE6C8CF100][000001AE6A554CC0 49] iPhoneXSMax, [000001AE6DC20A00][000001AE6C0E4F40 49] iPhoneXR, [000001AE6C8CD400][000001AE6A5591C0 49] iPhone11, [000001AE6DC23600][000001AE6A561480 49] iPhone11Pro, [000001AE6C8CC900][000001AE6A569740 49] iPhone11ProMax, [000001AE6DC23A00][000001AE6A56DA00 49] iPhoneSE2, [000001AE6C8CF200][000001AE6A97E140 49] iPhone12Mini, [000001AE6DC23D00][000001AE6A982400 49] iPhone12, [000001AE6C8CDA00][000001AE6A9866C0 49] iPhone12Pro, [000001AE6DC23900][000001AE6A98A980 49] iPhone12ProMax, [000001AE6C8CD700][000001AE6A98EC40 49] iPadPro105, [000001AE6DC21700][000001AE6A992F00 49] iPadPro129, [000001AE6C8CF500][000001AE6A55D180 49] iPadPro97, [000001AE6DC22F00][000001AE6A997400 49] iPadPro2_129, [000001AE6C8CE700][000001AE6A99F6C0 49] iPad5, [000001AE6DC21900][000001AE6A9A3980 49] iPad6, [000001AE6C8CEC00][000001AE6A9A60C0 49] iPad7, [000001AE6DC23200][000001AE6A9AA380 49] iPad8, [000001AE6C8CED00][000001AE6A9AE640 49] iPadPro11, [000001AE6DC20300][000001AE6A9B2900 49] iPadPro2_11, [000001AE6C8CCA00][000001AE6A9B6BC0 49] iPadPro3_129, [000001AE6DC23000][000001AE6A9BAE80 49] iPadPro4_129, [000001AE6C8CF600][000001AE6A9BF140 49] AppleTV, [000001AE6DC21B00][000001AE6A99B3C0 49] AppleTV4K, [000001AE6C8CDC00][000001AE6A9C3640 49] TVOS, [000001AE6DC22C00][000001AE6A9CB900 49] Mac, [000001AE6C8CE300][000001AE6C031BC0 49] MacClient, [000001AE6DC20E00][000001AE6C034300 49] MacNoEditor, [000001AE6C8CC600][000001AE6C0385C0 49] MacServer, [000001AE6DC22300][000001AE6C03C880 49] Linux, [000001AE6C8CC300][000001AE6C040B40 49] LinuxAArch64, [000001AE6C958500][000001AE6C044E00 49] LinuxNoEditor, [000001AE6DC30A00][000001AE6C0490C0 49] LinuxAArch64NoEditor, [000001AE6C95A300][000001AE6C04D380 49] LinuxClient, [000001AE6DC33600][000001AE6A9C7600 49] LinuxAArch64Client, [000001AE6C958100][000001AE6C051880 49] LinuxServer, [000001AE6DC31200][000001AE6C059B40 49] LinuxAArch64Server, [000001AE6C959900][000001AE6C05C280 49] Android, [000001AE6DC33100][000001AE6C060540 49] Android_Low, [000001AE6C95A400][000001AE6C064800 49] Android_Mid, [000001AE6DC32200][000001AE6C068AC0 49] Android_High, [000001AE6C958900][000001AE6C06CD80 49] Android_Default, [000001AE6DC32A00][000001AE6C071040 49] Android_Adreno4xx, [000001AE6C959200][000001AE6C075300 49] Android_Adreno5xx_Low, [000001AE6DC33B00][000001AE6C0795C0 49] Android_Adreno5xx, [000001AE6C958F00][000001AE6C055840 49] Android_Adreno6xx, [000001AE6DC30B00][000001AE6C07DAC0 49] Android_Adreno6xx_Vulkan, [000001AE6C959C00][000001AE6C084200 49] Android_Mali_T6xx, [000001AE6DC32600][000001AE6C0884C0 49] Android_Mali_T7xx, [000001AE6C95A800][000001AE6EBEE780 49] Android_Mali_T8xx, [000001AE6DC31400][000001AE6EBF2A40 49] Android_Mali_G71, [000001AE6C958700][000001AE6EBF6D00 49] Android_Mali_G72, [000001AE6DC33D00][000001AE6EBFAFC0 49] Android_Mali_G72_Vulkan, [000001AE6C8CC100][000001AE6EBFF280 49] Android_Mali_G76, [000001AE6DC20B00][000001AE6EC03540 49] Android_Mali_G76_Vulkan, [000001AE6C8CE400][000001AE6EC07800 49] Android_Mali_G77, [000001AE6DC22200][000001AE6C081A80 49] Android_Mali_G77_Vulkan, [000001AE6C8CF900][000001AE6EC0A180 49] Android_Mali_G78, [000001AE6DC21300][000001AE6EC12440 49] Android_Mali_G78_Vulkan, [000001AE6C8CDE00][000001AE6EC16700 49] Android_Mali_G710, [000001AE6DC22A00][000001AE6EC1A9C0 49] Android_Mali_G710_Vulkan, [000001AE6C8CD600][000001AE6EC1EC80 49] Android_Vulkan_SM5, [000001AE6DC21F00][000001AE6EC22F40 49] Android_PowerVR_G6xxx, [000001AE6C8CCC00][000001AE6EC27200 49] Android_PowerVR_GT7xxx, [000001AE6DC21E00][000001AE6EC2B4C0 49] Android_PowerVR_GE8xxx, [000001AE6C8CDD00][000001AE6EC2F780 49] Android_PowerVR_GM9xxx, [000001AE6C958200][000001AE6EC33A40 49] Android_PowerVR_GM9xxx_Vulkan, [000001AE6C8CE600][000001AE6EC0E140 49] Android_TegraK1, [000001AE6C958E00][000001AE6EC363C0 49] Android_Unknown_Vulkan, [000001AE6C8CD900][000001AE6EC3E680 49] Lumin, [000001AE6C959500][000001AE6EC42940 49] Lumin_Desktop, [000001AE6C8CC800][000001AE6EC46C00 49] HoloLens, 
+[2023.11.20-04.45.08:242][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.11.20-04.45.08:242][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.11.20-04.45.08:242][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.11.20-04.45.08:242][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.11.20-04.45.08:242][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.11.20-04.45.08:255][  0]LogNetVersion: NoMandKnight2 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3722839067)
+[2023.11.20-04.45.08:549][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.11.20-04.45.08:594][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.11.20-04.45.08:599][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.11.20-04.45.08:599][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.11.20-04.45.08:599][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.20-04.45.08:887][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B08E8D754253E6CE83223DA1478E065B | Instance: 0925093C4005E827B57D599305588564 (LAPTOP-IIGL3ECS-268).
+[2023.11.20-04.45.08:930][  0]LogPython: Using Python 3.7.7
+[2023.11.20-04.45.09:359][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.20-04.45.09:362][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.20-04.45.09:589][  0]SourceControl: Source control is disabled
+[2023.11.20-04.45.09:589][  0]SourceControl: Source control is disabled
+[2023.11.20-04.45.09:592][  0]SourceControl: Source control is disabled
+[2023.11.20-04.45.09:596][  0]SourceControl: Source control is disabled
+[2023.11.20-04.45.09:599][  0]SourceControl: Source control is disabled
+[2023.11.20-04.45.09:607][  0]LogUProjectInfo: Found projects:
+[2023.11.20-04.45.09:784][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.20-04.45.09:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.20-04.45.09:836][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.20-04.45.09:836][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.20-04.45.09:949][  0]LogCollectionManager: Loaded 0 collections in 0.001377 seconds
+[2023.11.20-04.45.09:971][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Collections/' took 0.00s
+[2023.11.20-04.45.09:971][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/Developers/AlexPerez/Collections/' took 0.00s
+[2023.11.20-04.45.09:971][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/Collections/' took 0.00s
+[2023.11.20-04.45.09:971][  0]LogOcInput: OculusInput pre-init called
+[2023.11.20-04.45.10:166][  0]LogEngine: Initializing Engine...
+[2023.11.20-04.45.10:245][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.11.20-04.45.10:324][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.11.20-04.45.10:324][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.11.20-04.45.10:324][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.11.20-04.45.10:372][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2023.11.20-04.45.10:372][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.11.20-04.45.10:373][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.20-04.45.10:488][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.20-04.45.10:497][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.20-04.45.10:498][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.20-04.45.10:501][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.20-04.45.10:502][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.20-04.45.10:502][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.20-04.45.10:502][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.20-04.45.10:502][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-04.45.10:502][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-04.45.10:503][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-04.45.10:503][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-04.45.10:503][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-04.45.10:503][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.20-04.45.10:503][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-04.45.10:503][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-04.45.10:503][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-04.45.10:503][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-04.45.10:503][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-04.45.10:503][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.11.20-04.45.10:517][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.11.20-04.45.10:517][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.11.20-04.45.10:533][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.11.20-04.45.10:534][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-04.45.10:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-04.45.10:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-04.45.10:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.11.20-04.45.10:536][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.11.20-04.45.10:536][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.11.20-04.45.10:537][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.11.20-04.45.10:537][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.11.20-04.45.10:537][  0]LogInit: FAudioDevice initialized.
+[2023.11.20-04.45.10:537][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.20-04.45.10:537][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.20-04.45.10:588][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/Alex Perez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.11.20-04.45.10:589][  0]LogInit: Texture streaming: Enabled
+[2023.11.20-04.45.10:599][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.11.20-04.45.10:602][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.11.20-04.45.10:602][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.11.20-04.45.10:603][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.11.20-04.45.10:628][  0]LogInit: Transaction tracking system initialized
+[2023.11.20-04.45.10:646][  0]BlueprintLog: New page: Editor Load
+[2023.11.20-04.45.10:694][  0]LocalizationService: Localization service is disabled
+[2023.11.20-04.45.10:718][  0]TimingProfiler: Initialize
+[2023.11.20-04.45.10:718][  0]TimingProfiler: OnSessionChanged
+[2023.11.20-04.45.10:718][  0]LoadingProfiler: Initialize
+[2023.11.20-04.45.10:718][  0]LoadingProfiler: OnSessionChanged
+[2023.11.20-04.45.10:718][  0]NetworkingProfiler: Initialize
+[2023.11.20-04.45.10:718][  0]NetworkingProfiler: OnSessionChanged
+[2023.11.20-04.45.10:718][  0]MemoryProfiler: Initialize
+[2023.11.20-04.45.10:718][  0]MemoryProfiler: OnSessionChanged
+[2023.11.20-04.45.10:854][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.11.20-04.45.10:854][  0]LogCook: Display: Mobile HDR setting 0
+[2023.11.20-04.45.11:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/' took 0.01s
+[2023.11.20-04.45.11:223][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.11.20-04.45.11:226][  0]SourceControl: Source control is disabled
+[2023.11.20-04.45.11:226][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.413
+[2023.11.20-04.45.11:226][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.20-04.45.11:233][  0]LightingResults: New page: Lighting Build
+[2023.11.20-04.45.11:234][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-04.45.11:234][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-04.45.11:235][  0]MapCheck: New page: Map Check
+[2023.11.20-04.45.11:235][  0]LightingResults: New page: Lighting Build
+[2023.11.20-04.45.11:263][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-04.45.11:266][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.20-04.45.13:945][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.11.20-04.45.13:946][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.20-04.45.13:946][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.20-04.45.13:954][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.20-04.45.13:955][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.20-04.45.13:955][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2023.11.20-04.45.13:955][  0]LogFileHelpers: Loading map 'MainMenu' took 2.729
+[2023.11.20-04.45.13:958][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.145
+[2023.11.20-04.45.14:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-04.45.14:107][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-04.45.14:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-04.45.14:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-04.45.14:149][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3920 classes and 953 folders.
+[2023.11.20-04.45.14:156][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.11.20-04.45.14:172][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.11.20-04.45.14:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.11.20-04.45.14:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.11.20-04.45.14:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.11.20-04.45.14:183][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.11.20-04.45.14:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.11.20-04.45.14:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.11.20-04.45.14:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.11.20-04.45.14:191][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.11.20-04.45.14:191][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:191][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.11.20-04.45.14:191][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:191][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.11.20-04.45.14:191][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:199][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.11.20-04.45.14:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.11.20-04.45.14:199][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:199][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.11.20-04.45.14:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.11.20-04.45.14:206][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.11.20-04.45.14:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.11.20-04.45.14:206][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:206][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.11.20-04.45.14:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:213][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.11.20-04.45.14:213][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:213][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.11.20-04.45.14:213][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:213][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.11.20-04.45.14:213][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.11.20-04.45.14:221][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.11.20-04.45.14:221][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:221][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.11.20-04.45.14:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.11.20-04.45.14:221][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.11.20-04.45.14:229][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.11.20-04.45.14:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.11.20-04.45.14:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.11.20-04.45.14:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:238][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.11.20-04.45.14:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.11.20-04.45.14:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.11.20-04.45.14:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.11.20-04.45.14:246][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.11.20-04.45.14:246][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.11.20-04.45.14:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.11.20-04.45.14:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:253][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.11.20-04.45.14:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.11.20-04.45.14:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.11.20-04.45.14:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:259][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.11.20-04.45.14:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.11.20-04.45.14:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.11.20-04.45.14:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.11.20-04.45.14:266][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.11.20-04.45.14:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.11.20-04.45.14:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.11.20-04.45.14:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:273][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.11.20-04.45.14:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.11.20-04.45.14:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.11.20-04.45.14:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.11.20-04.45.14:280][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.11.20-04.45.14:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.11.20-04.45.14:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.11.20-04.45.14:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.11.20-04.45.14:287][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.11.20-04.45.14:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.11.20-04.45.14:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.11.20-04.45.14:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.11.20-04.45.14:295][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.11.20-04.45.14:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.11.20-04.45.14:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.11.20-04.45.14:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:302][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.11.20-04.45.14:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.11.20-04.45.14:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.11.20-04.45.14:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.11.20-04.45.14:309][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.11.20-04.45.14:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.11.20-04.45.14:309][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:309][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.11.20-04.45.14:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.11.20-04.45.14:320][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.11.20-04.45.14:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.11.20-04.45.14:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.11.20-04.45.14:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.11.20-04.45.14:327][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.11.20-04.45.14:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.11.20-04.45.14:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.11.20-04.45.14:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.11.20-04.45.14:335][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.11.20-04.45.14:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.11.20-04.45.14:335][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:335][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.11.20-04.45.14:335][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:342][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.11.20-04.45.14:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.11.20-04.45.14:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.11.20-04.45.14:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.11.20-04.45.14:350][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.11.20-04.45.14:350][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:350][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.11.20-04.45.14:350][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:350][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.11.20-04.45.14:350][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.11.20-04.45.14:357][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.11.20-04.45.14:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.11.20-04.45.14:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.11.20-04.45.14:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.11.20-04.45.14:364][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.11.20-04.45.14:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.11.20-04.45.14:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.11.20-04.45.14:364][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.11.20-04.45.14:364][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.11.20-04.45.14:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.11.20-04.45.14:644][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.11.20-04.45.14:651][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.11.20-04.45.14:788][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.20-04.45.14:798][  0]LogSlate: Took 0.008191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.20-04.45.14:799][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.11.20-04.45.14:956][  0]LogRenderer: Reallocating scene render targets to support 1072x496 Format 10 NumSamples 1 (Frame:1).
+[2023.11.20-04.45.15:086][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.11.20-04.45.15:087][  0]LogLoad: (Engine Initialization) Total time: 16.27 seconds
+[2023.11.20-04.45.15:087][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.11.20-04.45.15:147][  0]LogAssetRegistry: Asset discovery search completed in 7.1953 seconds
+[2023.11.20-04.45.15:153][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.11.20-04.45.15:155][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.20-04.45.15:189][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/' took 0.08s
+[2023.11.20-05.03.27:765][316]LogSlate: Took 0.007569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.20-05.03.27:805][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_1.png)
+[2023.11.20-05.03.27:808][316]LogTexture: Display: Building textures: jump_1 (BGRA8, 474X332)
+[2023.11.20-05.03.27:840][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_10.png)
+[2023.11.20-05.03.27:842][316]LogTexture: Display: Building textures: jump_10 (BGRA8, 482X391)
+[2023.11.20-05.03.27:857][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_11.png)
+[2023.11.20-05.03.27:859][316]LogTexture: Display: Building textures: jump_11 (BGRA8, 568X351)
+[2023.11.20-05.03.27:874][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_12.png)
+[2023.11.20-05.03.27:876][316]LogTexture: Display: Building textures: jump_12 (BGRA8, 542X286)
+[2023.11.20-05.03.27:879][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_13.png)
+[2023.11.20-05.03.27:881][316]LogTexture: Display: Building textures: jump_13 (BGRA8, 544X282)
+[2023.11.20-05.03.27:896][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_14.png)
+[2023.11.20-05.03.27:898][316]LogTexture: Display: Building textures: jump_14 (BGRA8, 540X325)
+[2023.11.20-05.03.27:913][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_2.png)
+[2023.11.20-05.03.27:915][316]LogTexture: Display: Building textures: jump_2 (OODLE_AutoDXT, 492X260)
+[2023.11.20-05.03.27:922][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_3.png)
+[2023.11.20-05.03.27:924][316]LogTexture: Display: Building textures: jump_3 (BGRA8, 474X317)
+[2023.11.20-05.03.27:939][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_4.png)
+[2023.11.20-05.03.27:941][316]LogTexture: Display: Building textures: jump_4 (BGRA8, 500X369)
+[2023.11.20-05.03.27:956][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_5.png)
+[2023.11.20-05.03.27:958][316]LogTexture: Display: Building textures: jump_5 (BGRA8, 516X413)
+[2023.11.20-05.03.27:974][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_6.png)
+[2023.11.20-05.03.27:977][316]LogTexture: Display: Building textures: jump_6 (OODLE_AutoDXT, 476X516)
+[2023.11.20-05.03.27:997][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_7.png)
+[2023.11.20-05.03.27:999][316]LogTexture: Display: Building textures: jump_7 (OODLE_AutoDXT, 476X516)
+[2023.11.20-05.03.28:005][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_8.png)
+[2023.11.20-05.03.28:007][316]LogTexture: Display: Building textures: jump_8 (BGRA8, 544X307)
+[2023.11.20-05.03.28:013][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alex Perez\Desktop\Game Project CHaracters\Some Girl\03_jump/jump_9.png)
+[2023.11.20-05.03.28:015][316]LogTexture: Display: Building textures: jump_9 (BGRA8, 578X272)
+[2023.11.20-05.03.56:971][115]LogTexture: Display: Building textures: jump_2 (BGRA8, 492X260)
+[2023.11.20-05.03.56:976][115]LogTexture: Display: Building textures: jump_6 (BGRA8, 476X516)
+[2023.11.20-05.03.56:981][115]LogTexture: Display: Building textures: jump_7 (BGRA8, 476X516)
+[2023.11.20-05.05.06:379][ 36]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2023.11.20-05.05.06:380][ 36]LogContentBrowser: Deferred new asset file creation: jump
+[2023.11.20-05.05.06:430][ 36]LogContentBrowser: Creating deferred item: jump
+[2023.11.20-05.05.07:516][ 83]LogContentBrowser: Attempting asset rename: jump -> jump
+[2023.11.20-05.05.07:516][ 83]LogContentBrowser: End creating deferred item jump
+[2023.11.20-05.05.07:737][ 89]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump.jump
+[2023.11.20-05.05.07:899][ 90]LogRenderer: Reallocating scene render targets to support 1372x572 Format 10 NumSamples 1 (Frame:1).
+[2023.11.20-05.05.13:136][191]LogRenderer: Reallocating scene render targets to support 2036x1004 Format 10 NumSamples 1 (Frame:102).
+[2023.11.20-05.05.41:243][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.20-05.05.41:244][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/MainMenu' took 0.012
+[2023.11.20-05.05.41:246][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1] ([1] browsable assets)...
+[2023.11.20-05.05.41:268][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1.jump_1]
+[2023.11.20-05.05.41:268][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1]
+[2023.11.20-05.05.41:273][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_1_Auto1BAE41E67454A70D86C3E4B9A2D0D3724.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1_Auto1.uasset'
+[2023.11.20-05.05.41:274][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_10] ([1] browsable assets)...
+[2023.11.20-05.05.41:279][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_10.jump_10]
+[2023.11.20-05.05.41:279][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_10]
+[2023.11.20-05.05.41:281][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_10_Auto1687A4B184D6666634BF7AEBE70316664.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_10_Auto1.uasset'
+[2023.11.20-05.05.41:282][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_11] ([1] browsable assets)...
+[2023.11.20-05.05.41:286][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_11.jump_11]
+[2023.11.20-05.05.41:286][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_11]
+[2023.11.20-05.05.41:289][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_11_Auto19AB0D32645BDBA09AC3F2D904DB0D5D2.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_11_Auto1.uasset'
+[2023.11.20-05.05.41:290][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_12] ([1] browsable assets)...
+[2023.11.20-05.05.41:296][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_12.jump_12]
+[2023.11.20-05.05.41:296][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_12]
+[2023.11.20-05.05.41:298][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_12_Auto18F9CCD34415079A4364F7192DB360D05.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_12_Auto1.uasset'
+[2023.11.20-05.05.41:299][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_13] ([1] browsable assets)...
+[2023.11.20-05.05.41:303][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_13.jump_13]
+[2023.11.20-05.05.41:303][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_13]
+[2023.11.20-05.05.41:305][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_13_Auto16EAF46F7414093ADE63DE5A2A1D422A8.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_13_Auto1.uasset'
+[2023.11.20-05.05.41:306][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_14] ([1] browsable assets)...
+[2023.11.20-05.05.41:309][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_14.jump_14]
+[2023.11.20-05.05.41:309][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_14]
+[2023.11.20-05.05.41:312][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_14_Auto1EB576B2845AC531AF55AFB87C4EDD131.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_14_Auto1.uasset'
+[2023.11.20-05.05.41:313][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2] ([1] browsable assets)...
+[2023.11.20-05.05.41:316][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2.jump_2]
+[2023.11.20-05.05.41:316][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2]
+[2023.11.20-05.05.41:319][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_2_Auto1A0023636463D6A7FF6AB1594691A8E9C.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2_Auto1.uasset'
+[2023.11.20-05.05.41:320][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3] ([1] browsable assets)...
+[2023.11.20-05.05.41:324][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3.jump_3]
+[2023.11.20-05.05.41:324][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3]
+[2023.11.20-05.05.41:327][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_3_Auto1614521944297729E5DD2DCA818FEF0BB.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3_Auto1.uasset'
+[2023.11.20-05.05.41:327][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4] ([1] browsable assets)...
+[2023.11.20-05.05.41:332][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4.jump_4]
+[2023.11.20-05.05.41:332][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4]
+[2023.11.20-05.05.41:335][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_4_Auto1DA4320034531385E7729B3B459B8AC21.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4_Auto1.uasset'
+[2023.11.20-05.05.41:335][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5] ([1] browsable assets)...
+[2023.11.20-05.05.41:340][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5.jump_5]
+[2023.11.20-05.05.41:340][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5]
+[2023.11.20-05.05.41:343][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_5_Auto15958C32E423FC53CC26E29899BC6B533.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5_Auto1.uasset'
+[2023.11.20-05.05.41:344][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_6] ([1] browsable assets)...
+[2023.11.20-05.05.41:349][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_6.jump_6]
+[2023.11.20-05.05.41:349][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_6]
+[2023.11.20-05.05.41:351][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_6_Auto11B717BEE4B09BBC64AA85A92AA59C545.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_6_Auto1.uasset'
+[2023.11.20-05.05.41:352][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_7] ([1] browsable assets)...
+[2023.11.20-05.05.41:357][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_7.jump_7]
+[2023.11.20-05.05.41:357][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_7]
+[2023.11.20-05.05.41:360][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_7_Auto1588E7C974281D02E9D51F49F8ED2C747.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_7_Auto1.uasset'
+[2023.11.20-05.05.41:361][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_8] ([1] browsable assets)...
+[2023.11.20-05.05.41:365][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_8.jump_8]
+[2023.11.20-05.05.41:365][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_8]
+[2023.11.20-05.05.41:367][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_8_Auto1918CC4B54A8091AD52DC16AF5F5BBB1E.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_8_Auto1.uasset'
+[2023.11.20-05.05.41:368][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_9] ([1] browsable assets)...
+[2023.11.20-05.05.41:371][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_9.jump_9]
+[2023.11.20-05.05.41:371][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_9]
+[2023.11.20-05.05.41:374][750]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_9_Auto12FEE8384429C09A67F0FD19E06B0E0EB.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_9_Auto1.uasset'
+[2023.11.20-05.05.41:374][750]LogFileHelpers: Auto-saving content packages took 0.130
+[2023.11.20-05.14.55:195][358]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_14_Sprite.jump_14_Sprite
+[2023.11.20-05.14.55:260][358]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.20-05.14.55:329][358]LogRenderer: Reallocating scene render targets to support 2036x1196 Format 10 NumSamples 1 (Frame:1).
+[2023.11.20-05.14.55:329][358]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.20-05.16.32:218][936]LogContentBrowser: Attempting asset rename: jump_14_Sprite -> jump_14_Sprite
+[2023.11.20-05.17.48:972][798]LogContentBrowser: Attempting asset rename: jump_3_Sprite -> down_1_Sprite
+[2023.11.20-05.17.49:154][798]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_1_Sprite1982A97A4AA215FC8B8860BE62A83B41.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.uasset'
+[2023.11.20-05.17.49:301][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.20-05.17.49:338][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.20-05.17.49:342][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.17.49:372][798]AssetCheck: New page: Asset Save: down_1_Sprite
+[2023.11.20-05.17.49:372][798]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.down_1_Sprite
+[2023.11.20-05.18.52:252][ 14]LogContentBrowser: Attempting asset rename: jump_3 -> down_3
+[2023.11.20-05.18.52:434][ 14]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_324BB11E84570157DC53B59BD1461C95F.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.uasset'
+[2023.11.20-05.18.52:579][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.20-05.18.52:615][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.20-05.18.52:620][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.18.52:655][ 14]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_1_Sprite742E122C4CDEEEBECAD2CEA3EFD43A74.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.uasset'
+[2023.11.20-05.18.52:732][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-05.18.52:732][ 14]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.down_1_Sprite
+[2023.11.20-05.18.52:732][ 14]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3
+[2023.11.20-05.20.30:484][523]LogContentBrowser: Attempting asset rename: jump_4 -> down_4
+[2023.11.20-05.20.30:668][523]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_4394F09094547B5584A7E5E98CA148E4E.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.uasset'
+[2023.11.20-05.20.30:812][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-05.20.30:848][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.20-05.20.30:852][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-05.20.30:878][523]AssetCheck: New page: Asset Save: down_4
+[2023.11.20-05.20.30:878][523]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.down_4
+[2023.11.20-05.20.42:409][883]LogContentBrowser: Attempting asset rename: jump_4_Sprite -> down_4_Sprite
+[2023.11.20-05.20.42:591][883]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_4_Sprite4D43BA9B4882B4C34DA6A1B50A2540E3.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.uasset'
+[2023.11.20-05.20.42:738][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-05.20.42:775][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.20-05.20.42:780][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-05.20.42:805][883]AssetCheck: New page: Asset Save: down_4_Sprite
+[2023.11.20-05.20.42:806][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.down_4_Sprite
+[2023.11.20-05.21.01:242][408]LogContentBrowser: Attempting asset rename: down_3 -> down_3
+[2023.11.20-05.21.10:199][725]LogContentBrowser: Attempting asset rename: down_3 -> down_1
+[2023.11.20-05.21.10:378][725]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_1820B7FDD4F3312768F63DF91A00C32EF.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.uasset'
+[2023.11.20-05.21.10:527][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.20-05.21.10:563][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-05.21.10:568][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-05.21.10:599][725]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_1_Sprite0F064FDD40FD99D3CD5BD2B071CD2FAB.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.uasset'
+[2023.11.20-05.21.10:676][725]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-05.21.10:676][725]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.down_1_Sprite
+[2023.11.20-05.21.10:676][725]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.down_1
+[2023.11.20-05.21.17:242][924]LogContentBrowser: Attempting asset rename: down_4 -> down_2
+[2023.11.20-05.21.17:422][924]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_249AAE43F4D25FE2AE45B4EBEB082288E.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2.uasset'
+[2023.11.20-05.21.17:571][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.20-05.21.17:607][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-05.21.17:611][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-05.21.17:647][924]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_4_Sprite60B3753A4CD0EB1F4D8BE786092B5939.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.uasset'
+[2023.11.20-05.21.17:724][924]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-05.21.17:724][924]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.down_4_Sprite
+[2023.11.20-05.21.17:724][924]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2.down_2
+[2023.11.20-05.21.27:509][237]LogContentBrowser: Attempting asset rename: down_4_Sprite -> down_2_Sprite
+[2023.11.20-05.21.27:690][237]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_2_Sprite552DAAD44FB839E2D1772ABE73C43E67.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2_Sprite.uasset'
+[2023.11.20-05.21.27:836][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.20-05.21.27:873][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.20-05.21.27:877][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.20-05.21.27:903][237]AssetCheck: New page: Asset Save: down_2_Sprite
+[2023.11.20-05.21.27:903][237]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2_Sprite.down_2_Sprite
+[2023.11.20-05.28.29:610][ 35]LogContentBrowser: Attempting asset rename: jump_5_Sprite -> down_3
+[2023.11.20-05.28.29:791][ 35]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_3C68300A5442B9B7AF348B59196C7DE97.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.uasset'
+[2023.11.20-05.28.29:938][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.20-05.28.29:974][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.20-05.28.29:979][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.28.30:004][ 35]AssetCheck: New page: Asset Save: down_3
+[2023.11.20-05.28.30:005][ 35]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3
+[2023.11.20-05.28.55:436][798]LogContentBrowser: Attempting asset rename: down_3 -> down_3_Sprite
+[2023.11.20-05.28.55:616][798]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_3_SpriteF17FEFB944C0F3A8EF3ED3BB33992F91.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.uasset'
+[2023.11.20-05.28.55:763][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.20-05.28.55:799][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.20-05.28.55:804][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.28.55:830][798]AssetCheck: New page: Asset Save: down_3_Sprite
+[2023.11.20-05.28.55:830][798]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.down_3_Sprite
+[2023.11.20-05.31.17:758][663]LogContentBrowser: Attempting asset rename: jump_5 -> down_3
+[2023.11.20-05.31.17:942][663]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_308E40B81407A645352A2B6B1704395C0.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.uasset'
+[2023.11.20-05.31.18:085][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.20-05.31.18:122][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.20-05.31.18:126][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-05.31.18:158][663]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_3_Sprite62F928D64F969FC31A8ECBAC169D7780.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.uasset'
+[2023.11.20-05.31.18:236][663]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-05.31.18:236][663]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.down_3_Sprite
+[2023.11.20-05.31.18:236][663]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3
+[2023.11.20-05.40.11:853][566]LogContentBrowser: Attempting asset rename: jump_6_Sprite -> down_4_Sprite
+[2023.11.20-05.40.12:033][566]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_4_Sprite44BC13774C4B145EEF9E0C838F4D667C.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.uasset'
+[2023.11.20-05.40.12:180][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.20-05.40.12:217][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.20-05.40.12:222][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.40.12:250][566]AssetCheck: New page: Asset Save: down_4_Sprite
+[2023.11.20-05.40.12:250][566]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.down_4_Sprite
+[2023.11.20-05.40.26:112][ 27]LogContentBrowser: Attempting asset rename: jump_6 -> down_4
+[2023.11.20-05.40.26:239][ 27]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_48B9D6322454110874CFE2EB0A4B67618.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.uasset'
+[2023.11.20-05.40.26:331][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-05.40.26:367][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.20-05.40.26:372][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.40.26:402][ 27]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_4_Sprite09C636584148184F5B0E3FB8CD7AB6CA.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.uasset'
+[2023.11.20-05.40.26:481][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-05.40.26:481][ 27]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.down_4_Sprite
+[2023.11.20-05.40.26:481][ 27]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.down_4
+[2023.11.20-05.42.31:236][ 65]LogContentBrowser: Attempting asset rename: jump_7 -> down_5
+[2023.11.20-05.42.31:421][ 65]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_5C0346D364E47A8DAA787F4B46DA79D55.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5.uasset'
+[2023.11.20-05.42.31:563][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.20-05.42.31:600][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-05.42.31:604][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-05.42.31:630][ 65]AssetCheck: New page: Asset Save: down_5
+[2023.11.20-05.42.31:630][ 65]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5.down_5
+[2023.11.20-05.42.46:255][573]LogContentBrowser: Attempting asset rename: jump_7_Sprite -> down_5_Sprite
+[2023.11.20-05.42.46:437][573]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_5_SpriteDD783015402909844973B18BB8960814.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5_Sprite.uasset'
+[2023.11.20-05.42.46:585][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-05.42.46:621][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.20-05.42.46:625][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-05.42.46:652][573]AssetCheck: New page: Asset Save: down_5_Sprite
+[2023.11.20-05.42.46:652][573]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5_Sprite.down_5_Sprite
+[2023.11.20-05.46.51:981][787]LogContentBrowser: Attempting asset rename: jump_10 -> down_6
+[2023.11.20-05.46.52:165][787]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_675C398AF44393762A74536BD253F7A8A.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6.uasset'
+[2023.11.20-05.46.52:309][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.20-05.46.52:345][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.20-05.46.52:349][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.46.52:374][787]AssetCheck: New page: Asset Save: down_6
+[2023.11.20-05.46.52:375][787]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6.down_6
+[2023.11.20-05.47.44:297][435]LogContentBrowser: Attempting asset rename: jump_10_Sprite -> down_6_Sprite
+[2023.11.20-05.47.44:478][435]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_6_Sprite4A8D88B4483296930FEE2E933510BF5F.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6_Sprite.uasset'
+[2023.11.20-05.47.44:625][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.20-05.47.44:660][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.20-05.47.44:665][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-05.47.44:691][435]AssetCheck: New page: Asset Save: down_6_Sprite
+[2023.11.20-05.47.44:691][435]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6_Sprite.down_6_Sprite
+[2023.11.20-05.49.22:007][101]LogContentBrowser: Attempting asset rename: jump_11 -> down_7
+[2023.11.20-05.49.22:189][101]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_7F2FA6EA64A7F9A46470E499E0293B2CD.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7.uasset'
+[2023.11.20-05.49.22:334][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.20-05.49.22:371][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-05.49.22:375][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.49.22:401][101]AssetCheck: New page: Asset Save: down_7
+[2023.11.20-05.49.22:402][101]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7.down_7
+[2023.11.20-05.49.35:162][551]LogContentBrowser: Attempting asset rename: jump_11_Sprite -> down_7_Sprite
+[2023.11.20-05.49.35:344][551]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_7_Sprite15627C024EEAB9865D0E4CB656A6A8F6.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7_Sprite.uasset'
+[2023.11.20-05.49.35:490][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.20-05.49.35:526][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.20-05.49.35:531][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-05.49.35:556][551]AssetCheck: New page: Asset Save: down_7_Sprite
+[2023.11.20-05.49.35:556][551]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7_Sprite.down_7_Sprite
+[2023.11.20-05.52.46:722][459]LogContentBrowser: Attempting asset rename: jump_12_Sprite -> down_8_Sprite
+[2023.11.20-05.52.46:903][459]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_8_SpriteD0DD3CF94410FEF9436373B5FF6B64AD.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8_Sprite.uasset'
+[2023.11.20-05.52.47:050][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.20-05.52.47:086][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.20-05.52.47:091][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-05.52.47:116][459]AssetCheck: New page: Asset Save: down_8_Sprite
+[2023.11.20-05.52.47:116][459]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8_Sprite.down_8_Sprite
+[2023.11.20-05.53.04:442][ 18]LogContentBrowser: Attempting asset rename: jump_12 -> down_8
+[2023.11.20-05.53.04:623][ 18]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_8FB987B2741E5C76EBD183B91922EB790.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8.uasset'
+[2023.11.20-05.53.04:769][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-05.53.04:806][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.20-05.53.04:810][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.53.04:843][ 18]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_8_Sprite163E4AA04806DFD9CDFDDF9E1EAC38E7.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8_Sprite.uasset'
+[2023.11.20-05.53.04:920][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-05.53.04:920][ 18]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8_Sprite.down_8_Sprite
+[2023.11.20-05.53.04:920][ 18]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8.down_8
+[2023.11.20-05.53.40:951][914]LogContentBrowser: Attempting asset rename: jump_13 -> down_9
+[2023.11.20-05.53.41:133][914]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_9797A9320449B086FA2986DA58F542449.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9.uasset'
+[2023.11.20-05.53.41:278][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.20-05.53.41:315][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.20-05.53.41:320][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-05.53.41:345][914]AssetCheck: New page: Asset Save: down_9
+[2023.11.20-05.53.41:345][914]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9.down_9
+[2023.11.20-05.53.57:091][423]LogContentBrowser: Attempting asset rename: jump_13_Sprite -> down_9_Sprite
+[2023.11.20-05.53.57:272][423]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_9_Sprite9EBC5E70415864F159F5268622B0A220.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9_Sprite.uasset'
+[2023.11.20-05.53.57:419][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.20-05.53.57:455][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.20-05.53.57:459][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.20-05.53.57:485][423]AssetCheck: New page: Asset Save: down_9_Sprite
+[2023.11.20-05.53.57:485][423]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9_Sprite.down_9_Sprite
+[2023.11.20-06.07.27:327][152]LogContentBrowser: Attempting asset rename: jump_1 -> jump_4
+[2023.11.20-06.07.27:510][152]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_424AFCB5A43E17ABA167336BF6599F7BD.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4.uasset'
+[2023.11.20-06.07.27:655][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.20-06.07.27:692][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-06.07.27:696][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-06.07.27:722][152]AssetCheck: New page: Asset Save: jump_4
+[2023.11.20-06.07.27:722][152]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4.jump_4
+[2023.11.20-06.07.43:672][665]LogContentBrowser: Attempting asset rename: jump_1_Sprite -> jump_4_Sprite
+[2023.11.20-06.07.43:853][665]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_4_SpriteFA94EFA14803B98AC558E783BB6000A9.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4_Sprite.uasset'
+[2023.11.20-06.07.44:001][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.20-06.07.44:036][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.20-06.07.44:040][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.07.44:066][665]AssetCheck: New page: Asset Save: jump_4_Sprite
+[2023.11.20-06.07.44:066][665]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_4_Sprite.jump_4_Sprite
+[2023.11.20-06.09.21:940][280]LogContentBrowser: Attempting asset rename: jump_14_Sprite -> jump_14_Sprite
+[2023.11.20-06.09.31:631][612]LogContentBrowser: Attempting asset rename: jump_14_Sprite -> jump_1_Sprite
+[2023.11.20-06.09.31:813][612]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_1_Sprite6FF949B444837F6DE7FA6284780CE3B1.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1_Sprite.uasset'
+[2023.11.20-06.09.31:961][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.20-06.09.31:998][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.20-06.09.32:002][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.20-06.09.32:028][612]AssetCheck: New page: Asset Save: jump_1_Sprite
+[2023.11.20-06.09.32:028][612]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1_Sprite.jump_1_Sprite
+[2023.11.20-06.09.40:913][904]LogContentBrowser: Attempting asset rename: jump_14 -> jump_1
+[2023.11.20-06.09.41:096][904]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_1980C846142E1FB8303F057B1A52351B4.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1.uasset'
+[2023.11.20-06.09.41:240][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.11.20-06.09.41:278][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.20-06.09.41:282][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.09.41:318][904]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_1_SpriteBB00F04E46B0F76E9118BFA4BA1FD561.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1_Sprite.uasset'
+[2023.11.20-06.09.41:395][904]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-06.09.41:395][904]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1_Sprite.jump_1_Sprite
+[2023.11.20-06.09.41:395][904]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_1.jump_1
+[2023.11.20-06.22.37:127][753]LogContentBrowser: Deferred new asset file creation: jump_3
+[2023.11.20-06.22.37:148][753]LogContentBrowser: Creating deferred item: jump_3
+[2023.11.20-06.22.41:380][926]LogContentBrowser: Attempting asset rename: jump_3 -> jump_3
+[2023.11.20-06.22.41:393][926]LogContentBrowser: End creating deferred item jump_3
+[2023.11.20-06.22.58:120][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.20-06.23.02:672][410]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.23.04:527][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-06.23.06:005][462]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.23.06:129][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-06.24.33:382][477]LogContentBrowser: Attempting asset rename: jump_2_Sprite -> jump_5_Sprite
+[2023.11.20-06.24.33:563][477]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_5_Sprite2E261FC64593462D55664788F843E75C.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5_Sprite.uasset'
+[2023.11.20-06.24.33:710][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-06.24.33:746][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.20-06.24.33:751][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.20-06.24.33:776][477]AssetCheck: New page: Asset Save: jump_5_Sprite
+[2023.11.20-06.24.33:777][477]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5_Sprite.jump_5_Sprite
+[2023.11.20-06.25.04:208][399]LogContentBrowser: Attempting asset rename: jump_2 -> jump_5
+[2023.11.20-06.25.04:389][399]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_5C25487D54A56BE644AD845894334EC63.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5.uasset'
+[2023.11.20-06.25.04:535][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.20-06.25.04:572][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-06.25.04:577][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.25.04:609][399]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_5_SpriteFCDC1F2344260F5FF3D0C3ABE3A756D6.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5_Sprite.uasset'
+[2023.11.20-06.25.04:687][399]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-06.25.04:687][399]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5_Sprite.jump_5_Sprite
+[2023.11.20-06.25.04:687][399]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_5.jump_5
+[2023.11.20-06.27.09:898][ 76]LogContentBrowser: Attempting asset rename: jump_8_Sprite -> jump_2_Sprite
+[2023.11.20-06.27.10:080][ 76]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_2_SpriteC7FB98E8405B755D6DEE98A953F4B0AD.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2_Sprite.uasset'
+[2023.11.20-06.27.10:226][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.20-06.27.10:263][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.20-06.27.10:267][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-06.27.10:293][ 76]AssetCheck: New page: Asset Save: jump_2_Sprite
+[2023.11.20-06.27.10:293][ 76]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2_Sprite.jump_2_Sprite
+[2023.11.20-06.27.19:208][352]LogContentBrowser: Attempting asset rename: jump_8 -> jump_2
+[2023.11.20-06.27.19:391][352]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_2085FA0B34854934EF9553DA61BD959CD.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2.uasset'
+[2023.11.20-06.27.19:536][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.20-06.27.19:573][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.20-06.27.19:577][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.20-06.27.19:608][352]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_2_SpriteF71F5ADD41FE410F599628B744BEC926.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2_Sprite.uasset'
+[2023.11.20-06.27.19:686][352]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-06.27.19:686][352]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2_Sprite.jump_2_Sprite
+[2023.11.20-06.27.19:686][352]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_2.jump_2
+[2023.11.20-06.30.18:524][601]LogContentBrowser: Attempting asset rename: jump_9 -> jump_3
+[2023.11.20-06.30.18:707][601]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_3810A39AC4C48A48D52F9FABF990A9433.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3.uasset'
+[2023.11.20-06.30.18:852][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.20-06.30.18:897][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.20-06.30.18:901][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-06.30.18:927][601]AssetCheck: New page: Asset Save: jump_3
+[2023.11.20-06.30.18:927][601]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3.jump_3
+[2023.11.20-06.30.27:412][899]LogContentBrowser: Attempting asset rename: jump_9_Sprite -> jump_3_Sprite
+[2023.11.20-06.30.27:534][899]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jump_3_SpriteC35757394945AFB55ED57DB105635DC6.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3_Sprite.uasset'
+[2023.11.20-06.30.27:632][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.20-06.30.27:668][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.20-06.30.27:673][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.20-06.30.27:700][899]AssetCheck: New page: Asset Save: jump_3_Sprite
+[2023.11.20-06.30.27:700][899]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump_3_Sprite.jump_3_Sprite
+[2023.11.20-06.30.36:926][329]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.20-06.30.36:935][329]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.20-06.30.43:923][666]LogContentBrowser: Attempting asset rename: NewFolder -> 02_down
+[2023.11.20-06.30.43:924][666]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.20-06.32.28:756][457]LogSlate: Window 'Undo History' being destroyed
+[2023.11.20-06.32.28:785][457]LogSlate: Window 'Undo History' being destroyed
+[2023.11.20-06.32.34:155][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.20-06.32.35:185][578]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.32.35:311][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.11.20-06.32.43:478][906]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.down_1
+[2023.11.20-06.32.43:500][906]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2023.11.20-06.33.58:741][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_3.png 
+[2023.11.20-06.33.58:798][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_3.png : 42
+[2023.11.20-06.33.58:799][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_4.png 
+[2023.11.20-06.33.58:832][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_4.png : 42
+[2023.11.20-06.33.58:832][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_5.png 
+[2023.11.20-06.33.58:867][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_5.png : 42
+[2023.11.20-06.33.58:867][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_6.png 
+[2023.11.20-06.33.58:903][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_6.png : 42
+[2023.11.20-06.33.58:903][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_7.png 
+[2023.11.20-06.33.58:943][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_7.png : 42
+[2023.11.20-06.33.58:944][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_10.png 
+[2023.11.20-06.33.58:983][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_10.png : 42
+[2023.11.20-06.33.58:983][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_11.png 
+[2023.11.20-06.33.59:022][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_11.png : 42
+[2023.11.20-06.33.59:022][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_12.png 
+[2023.11.20-06.33.59:066][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_12.png : 42
+[2023.11.20-06.33.59:066][607]LogWindows: LaunchFileInExternalEditor C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_13.png 
+[2023.11.20-06.33.59:108][607]LogWindows: Launch application code for C:/Users/Alex Perez/Desktop/Game Project CHaracters/Some Girl/03_jump/jump_13.png : 42
+[2023.11.20-06.35.32:489][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.20-06.35.32:545][817]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/jumpA8CFCD9843653C4D5C420FBBFA0B1E9C.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump.uasset'
+[2023.11.20-06.35.32:577][817]AssetCheck: New page: Asset Save: jump
+[2023.11.20-06.35.32:577][817]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/jump.jump
+[2023.11.20-06.36.10:622][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_1_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1': Can't find file.
+[2023.11.20-06.36.10:622][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_1_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1': Can't find file.
+[2023.11.20-06.36.10:623][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_1_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1': Can't find file.
+[2023.11.20-06.36.10:624][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.down_1 Referenced by down_1_Sprite
+[2023.11.20-06.36.10:625][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_2_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2': Can't find file.
+[2023.11.20-06.36.10:625][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_2_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2': Can't find file.
+[2023.11.20-06.36.10:626][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_2_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2': Can't find file.
+[2023.11.20-06.36.10:626][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2.down_2 Referenced by down_2_Sprite
+[2023.11.20-06.36.10:627][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_3_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3': Can't find file.
+[2023.11.20-06.36.10:627][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_3_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3': Can't find file.
+[2023.11.20-06.36.10:627][932]LogProperty: Warning: Serialized Class /Script/Paper2D.PaperSprite for a property of Class /Script/Engine.Texture2D. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Paper2D.PaperSprite:SourceTexture
+    Item = PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.down_3_Sprite
+[2023.11.20-06.36.10:628][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_3_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3': Can't find file.
+[2023.11.20-06.36.10:628][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3 Referenced by down_3_Sprite
+[2023.11.20-06.36.10:629][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_4_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4': Can't find file.
+[2023.11.20-06.36.10:629][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_4_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4': Can't find file.
+[2023.11.20-06.36.10:629][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_4_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4': Can't find file.
+[2023.11.20-06.36.10:629][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.down_4 Referenced by down_4_Sprite
+[2023.11.20-06.36.10:636][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_5_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5': Can't find file.
+[2023.11.20-06.36.10:636][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_5_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5': Can't find file.
+[2023.11.20-06.36.10:636][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_5_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5': Can't find file.
+[2023.11.20-06.36.10:636][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5.down_5 Referenced by down_5_Sprite
+[2023.11.20-06.36.10:637][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_6_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6': Can't find file.
+[2023.11.20-06.36.10:638][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_6_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6': Can't find file.
+[2023.11.20-06.36.10:638][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_6_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6': Can't find file.
+[2023.11.20-06.36.10:638][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6.down_6 Referenced by down_6_Sprite
+[2023.11.20-06.36.10:639][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_7_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7': Can't find file.
+[2023.11.20-06.36.10:639][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_7_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7': Can't find file.
+[2023.11.20-06.36.10:640][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_7_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7': Can't find file.
+[2023.11.20-06.36.10:640][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7.down_7 Referenced by down_7_Sprite
+[2023.11.20-06.36.10:640][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_8_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8': Can't find file.
+[2023.11.20-06.36.10:641][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_8_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8': Can't find file.
+[2023.11.20-06.36.10:641][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_8_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8': Can't find file.
+[2023.11.20-06.36.10:641][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8.down_8 Referenced by down_8_Sprite
+[2023.11.20-06.36.10:642][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_9_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9': Can't find file.
+[2023.11.20-06.36.10:642][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_9_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9': Can't find file.
+[2023.11.20-06.36.10:643][932]LogLinker: Warning: [AssetLog] C:\Users\Alex Perez\Documents\GitHub\CSE4400-GameDesignProject\NoMandKnight2\Content\2DSideScrollerBP\Blueprints\Characters\Some_Girl\02_down\down_9_Sprite.uasset: Failed to load '/Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9': Can't find file.
+[2023.11.20-06.36.10:643][932]LoadErrors: Failed to load /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9.down_9 Referenced by down_9_Sprite
+[2023.11.20-06.36.13:563][986]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2023.11.20-06.36.13:563][986]LogContentBrowser: Deferred new asset file creation: down
+[2023.11.20-06.36.13:611][986]LogContentBrowser: Creating deferred item: down
+[2023.11.20-06.36.15:689][ 73]LogContentBrowser: Attempting asset rename: down -> down
+[2023.11.20-06.36.15:690][ 73]LogContentBrowser: End creating deferred item down
+[2023.11.20-06.36.16:538][ 96]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down.down
+[2023.11.20-06.36.47:380][711]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3.down_3
+[2023.11.20-06.36.49:760][755]LogSlate: Window 'down_3' being destroyed
+[2023.11.20-06.36.49:808][755]LogSlate: Window 'down_3' being destroyed
+[2023.11.20-06.36.49:814][755]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-06.36.49:814][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-06.36.49:849][755]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-06.36.49:849][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-06.36.49:880][755]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-06.36.49:881][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-06.36.56:141][940]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3_Sprite.down_3_Sprite
+[2023.11.20-06.36.58:843][991]LogSlate: Window 'down_3_Sprite' being destroyed
+[2023.11.20-06.36.58:899][991]LogSlate: Window 'down_3_Sprite' being destroyed
+[2023.11.20-06.36.58:902][991]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-06.36.58:903][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-06.37.06:881][228]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.down_3_Sprite
+[2023.11.20-06.37.08:537][258]LogSlate: Window 'down_3_Sprite' being destroyed
+[2023.11.20-06.37.08:592][258]LogSlate: Window 'down_3_Sprite' being destroyed
+[2023.11.20-06.37.08:596][258]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-06.37.08:596][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-06.37.24:342][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.20-06.37.26:747][822]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.37.28:204][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.20-06.37.29:468][861]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.37.29:593][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.20-06.37.31:973][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.20-06.37.32:707][920]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.37.32:851][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.20-06.37.32:883][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-06.37.32:888][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.20-06.38.11:214][700]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_3_Sprite82F1CE4C4BC2C12992D94CAF42ADFB0D.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3_Sprite.uasset'
+[2023.11.20-06.38.11:246][700]AssetCheck: New page: Asset Save: down_3_Sprite
+[2023.11.20-06.38.11:246][700]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3_Sprite.down_3_Sprite
+[2023.11.20-06.38.21:155][950]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2023.11.20-06.38.21:156][950]LogContentBrowser: Deferred new asset file creation: down
+[2023.11.20-06.38.21:244][950]LogContentBrowser: Creating deferred item: down
+[2023.11.20-06.38.22:376][998]LogContentBrowser: Attempting asset rename: down -> down
+[2023.11.20-06.38.22:376][998]LogContentBrowser: End creating deferred item down
+[2023.11.20-06.38.22:572][  3]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down.down
+[2023.11.20-06.40.23:016][ 47]LogContentBrowser: Attempting asset rename: down_3_Sprite -> down_34_Sprite
+[2023.11.20-06.40.23:200][ 47]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_34_Sprite392D20D044A0B3D3F7DECF91C221308A.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_34_Sprite.uasset'
+[2023.11.20-06.40.23:347][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.20-06.40.23:383][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.11.20-06.40.23:387][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.40.23:421][ 47]AssetCheck: New page: Asset Save: down_34_Sprite
+[2023.11.20-06.40.23:421][ 47]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_34_Sprite.down_34_Sprite
+[2023.11.20-06.40.29:569][247]LogContentBrowser: Attempting asset rename: down_4_Sprite -> down_3_Sprite
+[2023.11.20-06.40.29:750][247]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_3_SpriteA09FAFA243038136E78841B8F65DFE9B.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3_Sprite.uasset'
+[2023.11.20-06.40.29:898][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.20-06.40.29:934][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.20-06.40.29:938][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.40.29:966][247]AssetCheck: New page: Asset Save: down_3_Sprite
+[2023.11.20-06.40.29:966][247]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3_Sprite.down_3_Sprite
+[2023.11.20-06.40.34:595][389]LogContentBrowser: Attempting asset rename: down_34_Sprite -> down_34_Sprite
+[2023.11.20-06.40.41:802][623]LogContentBrowser: Attempting asset rename: down_34_Sprite -> down_4_Sprite
+[2023.11.20-06.40.41:983][623]LogSavePackage: Moving '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Saved/down_4_Sprite6DF7E50C4E9EEF759395C386C7996AB8.tmp' to '../../../../../../Users/Alex Perez/Documents/GitHub/CSE4400-GameDesignProject/NoMandKnight2/Content/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_4_Sprite.uasset'
+[2023.11.20-06.40.42:130][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.20-06.40.42:166][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.11.20-06.40.42:171][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.40.42:198][623]AssetCheck: New page: Asset Save: down_4_Sprite
+[2023.11.20-06.40.42:198][623]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_4_Sprite.down_4_Sprite
+[2023.11.20-06.41.03:524][249]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_2.down_2
+[2023.11.20-06.41.18:644][521]LogSlate: Window 'down' being destroyed
+[2023.11.20-06.41.18:724][521]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-06.41.18:725][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-06.41.45:619][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.20-06.41.50:455][267]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.41.54:716][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-06.41.58:346][388]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.42.06:445][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-06.42.07:592][572]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.42.07:734][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.20-06.42.07:771][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-06.42.07:775][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.20-06.42.19:904][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.20-06.42.26:731][900]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.20-06.42.26:760][900]LogUObjectGlobals: Force Deleting 18 Package(s):
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.down_1
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2.down_2
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.down_4
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5.down_5
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6.down_6
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7.down_7
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8.down_8
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9.down_9
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.down_1_Sprite
+[2023.11.20-06.42.40:024][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.40:027][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.down_1 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1.down_1:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1_Sprite.down_1_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_1_Sprite.down_1_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.40:028][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_1, this package is now potentially corrupt
+[2023.11.20-06.42.41:578][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.41:582][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2.down_2 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2.down_2:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_3_Sprite.down_3_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2_Sprite.down_2_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_2_Sprite.down_2_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.41:582][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_2, this package is now potentially corrupt
+[2023.11.20-06.42.42:305][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.42:309][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3.down_3:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3_Sprite.down_3_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.42:309][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_3, this package is now potentially corrupt
+[2023.11.20-06.42.42:932][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.42:935][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.down_4 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4.down_4:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4_Sprite.down_4_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.42:935][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_4, this package is now potentially corrupt
+[2023.11.20-06.42.46:687][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.46:691][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5.down_5 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5.down_5:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_5_Sprite.down_5_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5_Sprite.down_5_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.46:691][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_5, this package is now potentially corrupt
+[2023.11.20-06.42.47:488][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.47:491][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6.down_6 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6.down_6:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_6_Sprite.down_6_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6_Sprite.down_6_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.47:491][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_6, this package is now potentially corrupt
+[2023.11.20-06.42.48:044][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.48:048][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7.down_7 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7.down_7:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_7_Sprite.down_7_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7_Sprite.down_7_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.48:048][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_7, this package is now potentially corrupt
+[2023.11.20-06.42.48:502][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.48:505][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8.down_8 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8.down_8:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_8_Sprite.down_8_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8_Sprite.down_8_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.48:505][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_8, this package is now potentially corrupt
+[2023.11.20-06.42.48:946][900]LogSlate: Window 'Message' being destroyed
+[2023.11.20-06.42.48:949][900]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9.down_9 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9.down_9:
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/02_down/down_9_Sprite.down_9_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9_Sprite.down_9_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.11.20-06.42.48:949][900]LogObjectTools: Warning: ForceDeleteObject failed to delete down_9, this package is now potentially corrupt
+[2023.11.20-06.42.49:003][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.20-06.42.49:015][900]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.11.20-06.42.49:104][900]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.089 s
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: === Handled ensure: ===
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: 					from the file system manually: 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_1
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_2
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_3
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_4
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_5
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_6
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_7
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_8
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: /Game/2DSideScrollerBP/Blueprints/Characters/Some_Girl/03_jump/down_9
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: Stack: 
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9f04daa8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e9155f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e05b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e340dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e337e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac36a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac38280e UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac1d421e UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac24e104 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac237097 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac229b62 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffe343c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffe34292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffe343e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffe3424410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007ff81384e858 USER32.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007ff81384e299 USER32.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffe343fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac25865a UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fffac1f6b09 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e3d3e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e908de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff9e908184 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff3f0a2bac UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff3f0a2faa UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff3f0923a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff7df8f685 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff7e0a32fe UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.11.20-06.42.49:104][900]LogOutputDevice: Error: [Callstack] 0x00007fff7e0843c6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffac2b9657 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffac306e4a UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fff7e0bf6f0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffac1d2112 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffac235087 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffac228756 UE4Editor-Slate.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffe343bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffe34292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffe343e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffe3424410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff81384e858 USER32.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff81384e299 USER32.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007fffe343fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff6f1257621 UE4Editor.exe!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff6f1270fcc UE4Editor.exe!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff6f12710ba UE4Editor.exe!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff6f12740dd UE4Editor.exe!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff6f1285984 UE4Editor.exe!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff6f128853a UE4Editor.exe!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff8140e7344 KERNEL32.DLL!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: [Callstack] 0x00007ff8146a26b1 ntdll.dll!UnknownFunction []
+[2023.11.20-06.42.49:105][900]LogOutputDevice: Error: 
