@@ -1,18 +1,8 @@
 {
 	"Targets": [
 		{
-			"Name": "UnrealHeaderTool",
-			"Path": "B:\\Program Files\\Unreal Engine\\UE_4.27\\Engine\\Source\\Programs\\UnrealHeaderTool\\UnrealHeaderTool.Target.cs",
-			"Type": "Program"
-		},
-		{
-			"Name": "UE4Editor",
-			"Path": "B:\\Program Files\\Unreal Engine\\UE_4.27\\Engine\\Source\\UE4Editor.Target.cs",
-			"Type": "Editor"
-		},
-		{
-			"Name": "UE4Game",
-			"Path": "B:\\Program Files\\Unreal Engine\\UE_4.27\\Engine\\Source\\UE4Game.Target.cs",
+			"Name": "NoMandKnight2",
+			"Path": "D:\\Program Files (x86)\\Users\\Mike Rowe Soft\\Documents\\CSE 4050\\CSE4400-GameDesignProject\\NoMandKnight2\\Intermediate\\Source\\NoMandKnight2.Target.cs",
 			"Type": "Game"
 		}
 	]
